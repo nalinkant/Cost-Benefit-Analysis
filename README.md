@@ -10,3 +10,4 @@ Key Metrics:
 Revenue
 Monthly Units Sold
 Monthly Contribution
+![Alt text](Screenshot 2025-06-19 7.47.16 PM.png)
