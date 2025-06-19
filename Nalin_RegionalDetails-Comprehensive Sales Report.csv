@@ -1,0 +1,22 @@
+Region-wise Sales,,,,,
+Region,North,,,,
+Product,NutriKid,,,,
+City,Old Plan,,New Plan,,
+,Sales (in Units),Sales (in Rs),Sales (in Units),Sales (in Rs),
+Delhi,147809,8868540,174587,10475220,
+Chandigarh,212397,12743820,256497,15389820,
+Lucknow,132991,7181514,150895,9053700,
+Dehradun,86765,4555162.5,92066,5523960,
+Total,579962,33349036.5,674045,40442700,
+,,,,,
+City wise Monthly Sales (in Units) for North region,,,,,
+City,Pune,,,,
+Product,NutriKid,,,,
+Month,Old Plan,,New Plan,,Expected Change in Quantity
+,Sales (in Units),Sales (in Rs),Sales (in Units),Sales (in Rs),
+January,15799,947940,19275,1156500,3476
+February,18643,1118580,21626,1297560,2983
+March,21999,1319940,24199,1451940,2200
+April,25739,1544340,28570,1714200,2831
+May,29857,1791420,34933,2095980,5076
+June,34634,2078040,41907,2514420,7273
